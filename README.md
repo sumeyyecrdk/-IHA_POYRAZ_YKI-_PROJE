@@ -1,4 +1,4 @@
-# -IHA_POYRAZ_YK-_PROJE
+# -IHA_POYRAZ_YKI-_PROJE
 Bu proje, MAVLink protokolü üzerinden İHA'dan gelen telemetri verilerini alarak gerçek zamanlı bir yer kontrol arayüzü sunar.
 
 # ÖZELLİKLER
